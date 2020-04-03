@@ -1,4 +1,4 @@
-## My test Markdown post
+## My Project Ref 
 
 Portfolio website | https://yennanliu.github.io/  (https://yennj12.js.org/) 
 ------------ | -------------
@@ -14,5 +14,3 @@ Tech | Html / CSS / Javascript
 
 ## My blog 
 - http://yennj12.js.org/yennj12_blog_V2
-
-

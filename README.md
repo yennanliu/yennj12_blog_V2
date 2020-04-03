@@ -6,11 +6,7 @@
 
 https://yennanliu.github.io/yennj12_blog_V2/
 
-# My Blog
-
-
-_powered by [fastpages](https://github.com/fastai/fastpages)_
-
+# yennj12 Blog
 
 ## What To Do Next?
 
@@ -22,5 +18,7 @@ Great!  You have setup your repo.  Now its time to start writing content.  Some 
 
 - [Writing Blog Posts With Word](https://github.com/fastai/fastpages#writing-blog-posts-with-microsoft-word)
 
+## Ref
+- _powered by [fastpages](https://github.com/fastai/fastpages)_
 
 Please use the [nbdev & blogging channel](https://forums.fast.ai/c/fastai-users/nbdev/48) in the fastai forums for any questions or feature requests.

@@ -1,0 +1,27 @@
+# https://github.com/yennanliu/yennj12_blog_V2/pull/1
+
+Hello 👋 @yennanliu! Thank you for using fastpages!
+
+Before you merge this PR
+Create an ssh key-pair. Open this utility. Select: RSA and 4096 and leave Passphrase blank. Click the blue button Generate-SSH-Keys.
+
+Navigate to this link and click Add a new secret. Copy and paste the Private Key into the Value field. In the Name field, name the secret SSH_DEPLOY_KEY. Finally, make sure you click the checkbox next to Allow write access and click Add key to save the key.
+
+Navigate to this link and click the Add deploy key button. Paste your Public Key from step 1 into the Key box. In the Title, name the key anything you want, for example fastpages-key.
+
+What to Expect After Merging This PR
+GitHub Actions will build your site, which will take 3-4 minutes to complete. This will happen anytime you push changes to the master branch of your repository. You can monitor the logs of this if you like on the Actions tab of your repo.
+Your GH-Pages Status badge on your README will eventually appear and be green, indicating your first sucessfull build.
+You can monitor the status of your site in the GitHub Pages section of your repository settings.
+If you are not using a custom domain, your website will appear at:
+
+https://yennanliu.github.io/yennj12_blog_V2
+Optional: Using a Custom Domain
+After merging this PR, add a file named CNAME at the root of your repo. For example, the fastpages blog is hosted at https://fastpages.fast.ai, which means our CNAME contains the following contents:
+
+fastpages.fast.ai
+
+Change the url and baseurl parameters in your /_config.yml file to reflect your custom domain.
+
+Wondering how to setup a custom domain? See this article. You must add a CNAME file to the root of your master branch for the intructions in the article to work correctly.
+ 

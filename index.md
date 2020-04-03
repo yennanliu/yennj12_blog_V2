@@ -5,4 +5,4 @@
 layout: home
 ---
 Hello and welcome to `yennj12's` blog. Please see below posts 
-for reference. or visit my [main page](yennj12.js.org) 
+for reference. or visit my : https://yennj12.js.org/

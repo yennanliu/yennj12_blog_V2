@@ -4,10 +4,11 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+A software engineer, focus on data. Interested in system design as well data product development (SLA). Want to focus on both high-level concepts and practical implementation.
 
 
+Comment : **[SLA](https://en.wikipedia.org/wiki/Service-level_agreement)** [^1].
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+
+
+[^1]:A service-level agreement (SLA) is a commitment between a service provider and a client. Particular aspects of the service – quality, availability, responsibilities – are agreed between the service provider and the service user.[

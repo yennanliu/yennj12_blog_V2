@@ -24,7 +24,7 @@ twitter_username: "@fastdotai"
 use_math: 
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics:
+google_analytics: UA-110307295-2
 
 # Everything below here should be left alone. Modifications may break fastpages
 theme: minima

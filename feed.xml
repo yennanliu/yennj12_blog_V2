@@ -1,89 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://yennanliu.github.io/yennj12_blog_V2/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yennanliu.github.io/yennj12_blog_V2/" rel="alternate" type="text/html" /><updated>2020-04-04T09:06:18-05:00</updated><id>https://yennanliu.github.io/yennj12_blog_V2/feed.xml</id><title type="html">yennj12 blog</title><subtitle>A blog about travel, thought, and stories</subtitle><entry><title type="html">Yelp Review Data Project</title><link href="https://yennanliu.github.io/yennj12_blog_V2/2020/04/04/yelp-review.html" rel="alternate" type="text/html" title="Yelp Review Data Project" /><published>2020-04-04T00:00:00-05:00</published><updated>2020-04-04T00:00:00-05:00</updated><id>https://yennanliu.github.io/yennj12_blog_V2/2020/04/04/yelp-review</id><content type="html" xml:base="https://yennanliu.github.io/yennj12_blog_V2/2020/04/04/yelp-review.html">&lt;p&gt;[&lt;img src=&quot;http://img.youtube.com/vi/q2TE0oR6KNI/0.jpg&quot; alt=&quot;&quot; /&gt;](http://www.youtube.com/watch?v=q2TE0oR6KNI “”)&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Repo : https://github.com/yennanliu/YelpReviews&lt;/li&gt;
-  &lt;li&gt;Presentation : &lt;a href=&quot;https://github.com/yennanliu/YelpReviews/blob/master/doc/YelpReview_DS_demo.pdf&quot;&gt;Presentation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Visualization : &lt;a href=&quot;https://app.redash.io/yen_dev/public/dashboards/xpfG9wKgb9qEcMHlGiSpjhFn8dCZuun8XbCN52GN&quot;&gt;redash_dashboard&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Dataset : &lt;a href=&quot;https://www.kaggle.com/yelp-dataset/yelp-dataset&quot;&gt;yelp-dataset&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;intro&quot;&gt;Intro&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Build a POC end-to-end BI app that mining the interest from Kaggle yelp dataset.&lt;/li&gt;
-  &lt;li&gt;This dataset is a subset of Yelp’s businesses, reviews, and user data. It was originally put together for the Yelp Dataset Challenge which is a chance for students to conduct research or analysis on Yelp’s data and share their discoveries. In the dataset you’ll find information about businesses across 11 metropolitan areas in four countries.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Step1 : data collect&lt;/li&gt;
-  &lt;li&gt;Step 2 : data process&lt;/li&gt;
-  &lt;li&gt;Step 3 : db modeling&lt;/li&gt;
-  &lt;li&gt;Step 4 : data storage&lt;/li&gt;
-  &lt;li&gt;Step 5: ETL&lt;/li&gt;
-  &lt;li&gt;Step 6 : data analysis / ML&lt;/li&gt;
-  &lt;li&gt;Step 7 : data visualization&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;project-focus&quot;&gt;Project focus&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;database modeling / schema design (per business understanding, use cases)&lt;/li&gt;
-  &lt;li&gt;data process&lt;/li&gt;
-  &lt;li&gt;analysis (think about how to leverage the data if as a Yelp PM)&lt;/li&gt;
-  &lt;li&gt;framework design logic (why this database, why this schema, why this BI tool..)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;demo&quot;&gt;Demo&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://app.redash.io/yen_dev/public/dashboards/xpfG9wKgb9qEcMHlGiSpjhFn8dCZuun8XbCN52GN&quot;&gt;redash_dashboard&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/yennanliu/YelpReviews/blob/master/doc/YelpReview_DS_demo.pdf&quot;&gt;Presentation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">[](http://www.youtube.com/watch?v=q2TE0oR6KNI “”)</summary></entry><entry><title type="html">My Project Ref</title><link href="https://yennanliu.github.io/yennj12_blog_V2/2020/04/03/my-project-ref.html" rel="alternate" type="text/html" title="My Project Ref" /><published>2020-04-03T00:00:00-05:00</published><updated>2020-04-03T00:00:00-05:00</updated><id>https://yennanliu.github.io/yennj12_blog_V2/2020/04/03/my-project-ref</id><content type="html" xml:base="https://yennanliu.github.io/yennj12_blog_V2/2020/04/03/my-project-ref.html">&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Portfolio website&lt;/th&gt;
-      &lt;th&gt;https://yennanliu.github.io/  (https://yennj12.js.org/)&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Main Project&lt;/td&gt;
-      &lt;td&gt;https://yennj12.js.org/main_project.html&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;About Me&lt;/td&gt;
-      &lt;td&gt;https://yennj12.js.org/about_me.html&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Overview&lt;/td&gt;
-      &lt;td&gt;collections of my all side projects&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Contents&lt;/td&gt;
-      &lt;td&gt;1. applications projects  2. collections of utility codes&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Todo&lt;/td&gt;
-      &lt;td&gt;1. add blog page (sync with jekyll) 2. fix layout 3. add backend&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Tech&lt;/td&gt;
-      &lt;td&gt;Html / CSS / Javascript&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;my-page&quot;&gt;My page&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;http://yennj12.js.org&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;my-blog&quot;&gt;My blog&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;http://yennj12.js.org/yennj12_blog_V2&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Portfolio website https://yennanliu.github.io/ (https://yennj12.js.org/) Main Project https://yennj12.js.org/main_project.html About Me https://yennj12.js.org/about_me.html Overview collections of my all side projects Contents 1. applications projects 2. collections of utility codes Todo 1. add blog page (sync with jekyll) 2. fix layout 3. add backend Tech Html / CSS / Javascript</summary></entry><entry><title type="html">Title</title><link href="https://yennanliu.github.io/yennj12_blog_V2/2020/04/03/yelp_review.html" rel="alternate" type="text/html" title="Title" /><published>2020-04-03T00:00:00-05:00</published><updated>2020-04-03T00:00:00-05:00</updated><id>https://yennanliu.github.io/yennj12_blog_V2/2020/04/03/yelp_review</id><content type="html" xml:base="https://yennanliu.github.io/yennj12_blog_V2/2020/04/03/yelp_review.html">&lt;!--
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://yennanliu.github.io/yennj12_blog_V2/feed.xml" rel="self" type="application/atom+xml" /><link href="https://yennanliu.github.io/yennj12_blog_V2/" rel="alternate" type="text/html" /><updated>2020-04-04T09:13:43-05:00</updated><id>https://yennanliu.github.io/yennj12_blog_V2/feed.xml</id><title type="html">yennj12 blog</title><subtitle>A blog about travel, thought, and stories</subtitle><entry><title type="html">Title</title><link href="https://yennanliu.github.io/yennj12_blog_V2/2020/04/04/yelp-review.html" rel="alternate" type="text/html" title="Title" /><published>2020-04-04T00:00:00-05:00</published><updated>2020-04-04T00:00:00-05:00</updated><id>https://yennanliu.github.io/yennj12_blog_V2/2020/04/04/yelp-review</id><content type="html" xml:base="https://yennanliu.github.io/yennj12_blog_V2/2020/04/04/yelp-review.html">&lt;!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
-# file to edit: _notebooks/yelp_review.ipynb
+# file to edit: _notebooks/2020-04-04-yelp-review.ipynb
 --&gt;
 
 &lt;div class=&quot;container&quot; id=&quot;notebook-container&quot;&gt;
@@ -97,10 +16,22 @@
 
 &lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
 &lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;h2 id=&quot;Yelp-Review-Data-Project&quot;&gt;Yelp Review Data Project&lt;a class=&quot;anchor-link&quot; href=&quot;#Yelp-Review-Data-Project&quot;&gt; &lt;/a&gt;&lt;/h2&gt;&lt;p&gt;
+&lt;h1 id=&quot;Yelp-Review-Data-Project&quot;&gt;Yelp Review Data Project&lt;a class=&quot;anchor-link&quot; href=&quot;#Yelp-Review-Data-Project&quot;&gt; &lt;/a&gt;&lt;/h1&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
+&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
+&lt;p&gt;
 &lt;center&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/a&amp;gt;&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/center&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
+&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
 &lt;ul&gt;
 &lt;li&gt;Repo : &lt;a href=&quot;https://github.com/yennanliu/YelpReviews&quot;&gt;YelpReviews&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Presentation : &lt;a href=&quot;https://github.com/yennanliu/YelpReviews/blob/master/doc/YelpReview_DS_demo.pdf&quot;&gt;Presentation&lt;/a&gt;&lt;/li&gt;
@@ -140,11 +71,11 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">NYC Taxi Trip Duration EDA notebook</title><link href="https://yennanliu.github.io/yennj12_blog_V2/2020/04/03/NYC_Taxi_EDA_V1_Yen.html" rel="alternate" type="text/html" title="NYC Taxi Trip Duration EDA notebook" /><published>2020-04-03T00:00:00-05:00</published><updated>2020-04-03T00:00:00-05:00</updated><id>https://yennanliu.github.io/yennj12_blog_V2/2020/04/03/NYC_Taxi_EDA_V1_Yen</id><content type="html" xml:base="https://yennanliu.github.io/yennj12_blog_V2/2020/04/03/NYC_Taxi_EDA_V1_Yen.html">&lt;!--
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">NYC Taxi Trip Duration EDA notebook</title><link href="https://yennanliu.github.io/yennj12_blog_V2/2020/04/04/nyc-taxi-eda.html" rel="alternate" type="text/html" title="NYC Taxi Trip Duration EDA notebook" /><published>2020-04-04T00:00:00-05:00</published><updated>2020-04-04T00:00:00-05:00</updated><id>https://yennanliu.github.io/yennj12_blog_V2/2020/04/04/nyc-taxi-eda</id><content type="html" xml:base="https://yennanliu.github.io/yennj12_blog_V2/2020/04/04/nyc-taxi-eda.html">&lt;!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
-# file to edit: _notebooks/NYC_Taxi_EDA_V1_Yen.ipynb
+# file to edit: _notebooks/2020-04-04-nyc-taxi-eda.ipynb
 --&gt;
 
 &lt;div class=&quot;container&quot; id=&quot;notebook-container&quot;&gt;
@@ -34185,4 +34116,47 @@ qhqFAAAAAElFTkSuQmCC
 &lt;/div&gt;
     
 
-&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">My Project Ref</title><link href="https://yennanliu.github.io/yennj12_blog_V2/2020/04/03/my-project-ref.html" rel="alternate" type="text/html" title="My Project Ref" /><published>2020-04-03T00:00:00-05:00</published><updated>2020-04-03T00:00:00-05:00</updated><id>https://yennanliu.github.io/yennj12_blog_V2/2020/04/03/my-project-ref</id><content type="html" xml:base="https://yennanliu.github.io/yennj12_blog_V2/2020/04/03/my-project-ref.html">&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Portfolio website&lt;/th&gt;
+      &lt;th&gt;https://yennanliu.github.io/  (https://yennj12.js.org/)&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Main Project&lt;/td&gt;
+      &lt;td&gt;https://yennj12.js.org/main_project.html&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;About Me&lt;/td&gt;
+      &lt;td&gt;https://yennj12.js.org/about_me.html&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Overview&lt;/td&gt;
+      &lt;td&gt;collections of my all side projects&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Contents&lt;/td&gt;
+      &lt;td&gt;1. applications projects  2. collections of utility codes&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Todo&lt;/td&gt;
+      &lt;td&gt;1. add blog page (sync with jekyll) 2. fix layout 3. add backend&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Tech&lt;/td&gt;
+      &lt;td&gt;Html / CSS / Javascript&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;my-page&quot;&gt;My page&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;http://yennj12.js.org&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;my-blog&quot;&gt;My blog&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;http://yennj12.js.org/yennj12_blog_V2&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Portfolio website https://yennanliu.github.io/ (https://yennj12.js.org/) Main Project https://yennj12.js.org/main_project.html About Me https://yennj12.js.org/about_me.html Overview collections of my all side projects Contents 1. applications projects 2. collections of utility codes Todo 1. add blog page (sync with jekyll) 2. fix layout 3. add backend Tech Html / CSS / Javascript</summary></entry></feed>

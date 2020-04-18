@@ -11,3 +11,4 @@ _notebooks/.ipynb_checkpoints
 .netlify
 __pycache__
 _notebooks/test.ipynb
+.DS_Store

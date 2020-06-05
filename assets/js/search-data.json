@@ -2,11 +2,11 @@
   
     
         "post0": {
-            "title": "Yelp Review Data Project",
-            "content": "Repo : YelpReviews | Presentation : Presentation | Visualization : redash_dashboard | Dataset : yelp-dataset | . Youtube Videos . . Intro . Build a POC end-to-end BI app that mining the interest from Kaggle yelp dataset. | This dataset is a subset of Yelp&#39;s businesses, reviews, and user data. It was originally put together for the Yelp Dataset Challenge which is a chance for students to conduct research or analysis on Yelp&#39;s data and share their discoveries. In the dataset you&#39;ll find information about businesses across 11 metropolitan areas in four countries. | . Process . Step1 : data collect | Step 2 : data process | Step 3 : db modeling | Step 4 : data storage | Step 5 : ETL | Step 6 : data analysis / ML | Step 7 : data visualization | . Project focus . database modeling / schema design (per business understanding, use cases) | data process | analysis (think about how to leverage the data if as a Yelp PM) | framework design logic (why this database, why this schema, why this BI tool..) | . Demo . redash_dashboard | Presentation | .",
-            "url": "https://yennanliu.github.io/yennj12_blog_V2/2020/04/04/yelp-review.html",
-            "relUrl": "/2020/04/04/yelp-review.html",
-            "date": " • Apr 4, 2020"
+            "title": "",
+            "content": "Repo : YelpReviews | Presentation : Presentation | Visualization : redash_dashboard | Dataset : yelp-dataset | . . Intro . Build a POC end-to-end BI app that mining the interest from Kaggle yelp dataset. | This dataset is a subset of Yelp&#39;s businesses, reviews, and user data. It was originally put together for the Yelp Dataset Challenge which is a chance for students to conduct research or analysis on Yelp&#39;s data and share their discoveries. In the dataset you&#39;ll find information about businesses across 11 metropolitan areas in four countries. | . Process . Step1 : data collect | Step 2 : data process | Step 3 : db modeling | Step 4 : data storage | Step 5 : ETL | Step 6 : data analysis / ML | Step 7 : data visualization | . Project focus . database modeling / schema design (per business understanding, use cases) | data process | analysis (think about how to leverage the data if as a Yelp PM) | framework design logic (why this database, why this schema, why this BI tool..) | . Demo . redash_dashboard | Presentation | .",
+            "url": "https://yennanliu.github.io/yennj12_blog_V2/2020/06/05/2020-04-04-yelp-review.html",
+            "relUrl": "/2020/06/05/2020-04-04-yelp-review.html",
+            "date": " • Jun 5, 2020"
         }
         
     

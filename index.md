@@ -4,5 +4,4 @@
 
 layout: home
 ---
-Hello and welcome to `yennj12's` blog. Please see below posts 
-for reference. or visit my main page : https://yennj12.js.org/
+Hello and welcome to `yennj12's` blog. Feel free browse my posts; or kindly visit my main page : https://yennj12.js.org/

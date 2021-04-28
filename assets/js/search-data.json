@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "2021-04-10-Kafka-Learning-Resource",
-            "content": ". 1) Kafka Intro . official doc | offocal training | tutorial video in zh | . . 2) Kafka Connect . https://www.confluent.io/blog/kafka-connect-deep-dive-error-handling-dead-letter-queues/ | https://www.confluent.io/blog/kafka-connect-deep-dive-converters-serialization-explained/ | https://talks.rmoff.net/DQkDj3#sw2vXks | https://www.instaclustr.com/apache-kafka-connect-architecture-overview/ | . . 2) Kafka Connect . offical lab/code example | .",
+            "content": ". 1) Kafka Intro . official doc | offocal training | tutorial video in zh | . . 2) Kafka Connect . https://www.confluent.io/blog/kafka-connect-deep-dive-error-handling-dead-letter-queues/ | https://www.confluent.io/blog/kafka-connect-deep-dive-converters-serialization-explained/ | https://talks.rmoff.net/DQkDj3#sw2vXks | https://www.instaclustr.com/apache-kafka-connect-architecture-overview/ | . . 3) Kafka Lab/example . offical lab/example | . 4) Kafka code/example . https://github.com/confluentinc/kafka-tutorials | https://github.com/josephmachado/beginner_de_project_stream | https://github.com/spirom/spark-streaming-with-kafka | https://github.com/lightbend/kafka-with-akka-streams-kafka-streams-tutorial | https://github.com/LearningJournal/Kafka-Streams-Real-time-Stream-Processing | https://github.com/LearningJournal/Apache-Kafka-For-Absolute-Beginners | .",
             "url": "https://yennanliu.github.io/yennj12_blog_V2/2021/04/10/Kafka-Learning-Resource.html",
             "relUrl": "/2021/04/10/Kafka-Learning-Resource.html",
             "date": " • Apr 10, 2021"

@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "2021-04-10-Note",
-            "content": ". 1) Kafka video . AAA | BBB | CCC | .",
-            "url": "https://yennanliu.github.io/yennj12_blog_V2/2021/04/10/Note.html",
-            "relUrl": "/2021/04/10/Note.html",
+            "title": "2021-04-10-Kafka-Learning-Resource",
+            "content": ". 1) Kafka Intro . official doc | offocal training | tutorial video in zh | . . 2) Kafka Connect . https://www.confluent.io/blog/kafka-connect-deep-dive-error-handling-dead-letter-queues/ | https://www.confluent.io/blog/kafka-connect-deep-dive-converters-serialization-explained/ | https://talks.rmoff.net/DQkDj3#sw2vXks | https://www.instaclustr.com/apache-kafka-connect-architecture-overview/ | . . 2) Kafka Connect . offical lab/code example | .",
+            "url": "https://yennanliu.github.io/yennj12_blog_V2/2021/04/10/Kafka-Learning-Resource.html",
+            "relUrl": "/2021/04/10/Kafka-Learning-Resource.html",
             "date": " • Apr 10, 2021"
         }
         

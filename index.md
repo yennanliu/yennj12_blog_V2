@@ -4,5 +4,4 @@
 
 layout: home
 ---
-Travel | Business | Tech | Ideas
-My main page : [https://yennj12.js.org/](https://yennj12.js.org/) for projects and code ⚡.
+Travel | Business | Tech | Ideas ⚡
